@@ -14,15 +14,19 @@ public class TicketOffice {
         this.tickets.addAll(Arrays.asList(tickets));
     }
 
-    public Ticket getTicket() {
+    public void sellTicketTo(Audience audience) {
+        plusMoney(audience.buy(getTicket()));
+    }
+
+    private Ticket getTicket() {
         return tickets.remove(0);
     }
 
-    public void minusMoney(Long money){
-        this.money -= money;
+    private void plusMoney(Long money) {
+        this.money += money;
     }
 
-    public void plusMoney(Long money){
-        this.money += money;
+    private void minusMoney(Long money) {
+        this.money -= money;
     }
 }

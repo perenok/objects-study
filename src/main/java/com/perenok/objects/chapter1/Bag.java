@@ -26,19 +26,19 @@ public class Bag {
         }
     }
 
-    public void setTicket(Ticket ticket) {
+    private void setTicket(Ticket ticket) {
         this.ticket = ticket;
     }
 
-    public boolean hasInvitation() {
+    private boolean hasInvitation() {
         return invitation != null;
     }
 
-    public void minusMoney(Long money) {
+    private void minusMoney(Long money) {
         this.money -= money;
     }
 
-    public void plusMoney(Long money) {
+    private void plusMoney(Long money) {
         this.money += money;
     }
 }
