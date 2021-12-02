@@ -11,4 +11,12 @@ public class Audience {
     public Long buy(Ticket ticket) {
         return bag.hold(ticket);
     }
+
+    public boolean hasTicket() {
+        return bag.hasTicket();
+    }
+
+    public Long getMoney() {
+        return bag.getMoney();
+    }
 }

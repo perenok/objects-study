@@ -41,4 +41,12 @@ public class Bag {
     private void plusMoney(Long money) {
         this.money += money;
     }
+
+    public boolean hasTicket() {
+        return ticket != null;
+    }
+
+    public Long getMoney() {
+        return money;
+    }
 }

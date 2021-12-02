@@ -29,4 +29,8 @@ public class TicketOffice {
     private void minusMoney(Long money) {
         this.money -= money;
     }
+
+    public Long getMoney() {
+        return money;
+    }
 }
