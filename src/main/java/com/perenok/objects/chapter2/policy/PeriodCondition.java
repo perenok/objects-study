@@ -1,4 +1,6 @@
-package com.perenok.objects.chapter2;
+package com.perenok.objects.chapter2.policy;
+
+import com.perenok.objects.chapter2.movie.Screening;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;

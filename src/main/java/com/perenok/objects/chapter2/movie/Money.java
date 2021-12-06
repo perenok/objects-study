@@ -1,7 +1,10 @@
-package com.perenok.objects.chapter2;
+package com.perenok.objects.chapter2.movie;
+
+import lombok.EqualsAndHashCode;
 
 import java.math.BigDecimal;
 
+@EqualsAndHashCode
 public class Money {
 
     public static final Money ZERO = Money.wons(0L);

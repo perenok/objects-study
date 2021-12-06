@@ -1,6 +1,9 @@
-package com.perenok.objects.chapter2;
+package com.perenok.objects.chapter2.policy;
 
-public class AmountDiscountPolicy extends DiscountPolicy {
+import com.perenok.objects.chapter2.movie.Money;
+import com.perenok.objects.chapter2.movie.Screening;
+
+public class AmountDiscountPolicy extends DefaultDiscountPolicy {
 
     private Money discountAmount;
 

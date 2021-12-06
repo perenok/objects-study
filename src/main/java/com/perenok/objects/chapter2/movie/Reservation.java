@@ -1,4 +1,4 @@
-package com.perenok.objects.chapter2;
+package com.perenok.objects.chapter2.movie;
 
 public class Reservation {
 
