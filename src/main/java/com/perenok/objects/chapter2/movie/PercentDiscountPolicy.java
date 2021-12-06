@@ -1,7 +1,4 @@
-package com.perenok.objects.chapter2.policy;
-
-import com.perenok.objects.chapter2.movie.Money;
-import com.perenok.objects.chapter2.movie.Screening;
+package com.perenok.objects.chapter2.movie;
 
 public class PercentDiscountPolicy extends DefaultDiscountPolicy {
 
