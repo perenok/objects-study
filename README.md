@@ -9,3 +9,4 @@
 
 ## 노션 정리
 [Chapter01.객체, 설계](https://www.notion.so/1-515dddf759bf41d0acb4db5196db0a35)
+[Chapter02.객체지향 프로그래밍](https://www.notion.so/2-c2b46141a73640eeba314f0e168f1d9d)
