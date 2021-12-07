@@ -8,5 +8,8 @@
     * 소챕터마다 commit 하며 리팩토링한다.
 
 ## 노션 정리
-[Chapter01.객체, 설계](https://www.notion.so/1-515dddf759bf41d0acb4db5196db0a35)
-[Chapter02.객체지향 프로그래밍](https://www.notion.so/2-c2b46141a73640eeba314f0e168f1d9d)
+[Chapter01. 객체, 설계](https://www.notion.so/1-515dddf759bf41d0acb4db5196db0a35)
+
+[Chapter02. 객체지향 프로그래밍](https://www.notion.so/2-c2b46141a73640eeba314f0e168f1d9d)
+
+[Chapter03. 역할, 책임, 협력](https://www.notion.so/3-beb31d15af33475c8ddc669dc2c59f1b)
