@@ -13,3 +13,5 @@
 [Chapter02.객체지향 프로그래밍](https://www.notion.so/2-c2b46141a73640eeba314f0e168f1d9d)
 
 [Chapter03. 역할, 책임, 협력](https://www.notion.so/3-beb31d15af33475c8ddc669dc2c59f1b)
+
+[Chapter04. 설계 품질과 트레이드오프](https://www.notion.so/4-9b7c065e88bf40f1bd83a43a537589a7)
